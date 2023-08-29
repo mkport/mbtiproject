@@ -35,7 +35,7 @@ I did research on the personality tests for this project using Google. Please ke
    + EF(N): This character has dominant Extraverted Feeling (as seen by the EF), and auxiliary Intuition. 
 
 ## Files in Project
-+ [top.csv](docs/top.csv): data file of the top 250 characters <br />
-+ [top250.py](docs/top250.py): python file analyzing the characters' personality types visually
-+ [mcode.py](docs/mcode.py): python file with code that takes personality types as an input and outputs the characters that match most with the inputs (think of it as a fun quiz :) ) <br />
-+ [MBTIDashboard.pdf](docs/MBTIDashboard.pdf): a dashboard created from the data in Google Sheets using pivot tables and charts <br />
++ top.csv: data file of the top 250 characters <br />
++ top250.py: python file analyzing the characters' personality types visually
++ mcode.py: python file with code that takes personality types as an input and outputs the characters that match most with the inputs (think of it as a fun quiz :) ) <br />
++ MBTIDashboard.pdf: a dashboard created from the data in Google Sheets using pivot tables and charts <br />
