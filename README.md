@@ -7,8 +7,12 @@ The data is collected from votes, so some of the data may have changed from when
 If you use the data, please keep the above in mind and take care in cleaning the data for proper analysis. <br />
 Please use these project files for learning purposes only. Please do not claim the files as your own. <br />
 ## Summary of Personality Type Tests
-I did research on the personality tests for this project using Google and I am not an expert, but here is a brief summary of the tests:<br /> 
-+ 
+I did research on the personality tests for this project using Google. Please keep in mind that I am not an expert in them, but I hope this summary is helpful for understanding the project.<br /> 
++ MBTI: There are 16 MBTI types based on 8 cognitive functions (Ni, Ne, Si, Se, Fi, Fe, Ti, Te). These 8 functions stand for  i**N**tuition, **S**ensing, **F**eeling, **T**hinking, and are **I**ntroverted or **E**xtraverted. Each of the 16 types has 4 functions attributed to them. The first function is the dominant one, the next is auxiliary, then tertiary, and last inferior. Let me provide an example:
+   + ENFJ: Dominant Extroverted Feeling (Fe), Auxiliary Introverted Intuition (Ni), Teritary Extroverted Sensing (Se), Inferior Introverted Thinking (Ti)
+   + ENFJ stands for Extraverted Intuition Feeling Judging, and its opposite type ISTP is Introverted Sensing Thinking Perceiving.
+      + Basing MBTI types off of cognitive functions is preferred rather than using this method; I included both in this project.
++ Enneagram: There are 
 ## Files in Project
 + [top.csv](docs/top.csv): data file of the top 250 characters <br />
 + [top250.py](docs/top250.py): python file analyzing the characters' personality types visually
