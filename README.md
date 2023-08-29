@@ -28,7 +28,11 @@ I did research on the personality tests for this project using Google. Please ke
 + Attitudinal Psyche: This personality test is composed of four letters and their positions give insight onto a person's attitude. The four letters are Emotion (E), Physics (F), Logic (L), and Volition (V). The first position is confident, second is flexible, third is insecure, and fourth is unbothered. Let me provide an example:
    + VELF: Confident Volition suggests this person is goal-oriented, Flexible Emotions suggests this person is comfortable talking about emotion with others, Insecure Logic suggests they overanalyze and are sensitive to criticism, and Unbothered Physics suggests they are unattached to the physical world.
 + Temperament: This personality test is also composed of four letters: Phlegmatic (P), Melancholic (M), Sanguine (S), and Choleric (C). The letters correspond to personality traits. Some characters only have one letter as that temperament is dominant for them, while others have two since they have a mix of those in their character. The first letter is more dominant than the second. Let me provide examples:
-   + PC: Phlegmatic-Choleric, mainly relaxed and seeks cooperation, with some irritability and stubbornness. 
+   + PC: Phlegmatic-Choleric, mainly relaxed and seeks cooperation, with some irritability and stubbornness.
+   + S: Sanguine, optimistic and social
+   + M: Melancholic, analytical and quiet
++ Classic Jungian: This test utilizes functions much like the MBTI and Socionics tests, but in a different format. Let me provide an example:
+   + EF(N): This character has dominant Extraverted Feeling (as seen by the EF), and auxiliary Intuition. 
 
 ## Files in Project
 + [top.csv](docs/top.csv): data file of the top 250 characters <br />
